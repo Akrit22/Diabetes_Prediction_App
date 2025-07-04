@@ -85,6 +85,8 @@ if prediction == 1:
     st.error("⚠️ You are likely to have **diabetes**.")
 else:
     st.success("✅ You are unlikely to have diabetes.")
+```
+---
 
 ## 🙌 Acknowledgements
 
