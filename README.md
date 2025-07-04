@@ -63,9 +63,11 @@ The app takes the following inputs from the user:
 
 ## 📷 Screenshots
 
-![Home Screenshot](image/p1.png)
+![Home Screenshot](image/d1.png)
 
-![Result Screenshot](image/p2.png)
+![Result Screenshot](image/d1_2.png)
+
+![Result Screenshot](image/d2.png)
 
 ---
 
