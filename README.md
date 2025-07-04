@@ -85,3 +85,9 @@ if prediction == 1:
     st.error("⚠️ You are likely to have **diabetes**.")
 else:
     st.success("✅ You are unlikely to have diabetes.")
+
+## 🙌 Acknowledgements
+
+- 📊 **Dataset Source:** [Kaggle - Pima Indians Diabetes Dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database)  
+- 👨‍💻 **Developed by:** Akrit Pathania
+
